@@ -5,7 +5,7 @@ a Brazilian Software Developer.
 💻 Currently working with Javascript technologies such as NodeJS, Angular, SailsJS\
 📚 On the way to learn mobile development using [Flutter](https://flutter.dev)\
 📚 On the way to learn DevOps with Google Cloud and AWS\
-🌎 I'm currently living in Brazil\
+🌎 I'm currently living in Brazil
 
 🛠 Some tools I use in my projects: MongoDB, MySQL, VSCode, Android Studio, Docker, Firebase.\
 
