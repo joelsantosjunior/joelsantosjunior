@@ -7,6 +7,7 @@ a Brazilian Software Developer.
 📚 On the way to learn DevOps with Google Cloud and AWS\
 🛠 Some other tools I'm used to use in my projects: MongoDB, MySQL, VSCode, Android Studio, Docker, Firebase.\
 🌎 I'm currently living in Brazil
+👨‍💻 Currently working for [Upplify](http://upplify.com/)
 
 ### Here's where you can find me! ✉
 [LinkedIn](https://www.linkedin.com/in/joelsantosjunior/)\
