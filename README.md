@@ -1,9 +1,17 @@
-### Hi there 👋
+### Hello Everyone 👋
+
+I'm Joel S. Junior, a Brazilian Software Developer.
+
+👨‍🎓I'm about to finish my bachelor degree at [UNIFACISA](https://www.unifacisa.edu.br/home)
+💻 Currently working with Javascript technologies (Node, Angular)
+
+📚 On the way to learn mobile development using [Flutter](flutter.dev)
+
+
+
 
 <!--
 **joelsantosjunior/joelsantosjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
