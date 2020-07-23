@@ -10,6 +10,6 @@ a Brazilian Software Developer.
 🛠 Some tools I use in my projects: MongoDB, MySQL, VSCode, Android Studio, Docker, Firebase.
 
 ### Here's where you can find me! ✉
-[LinkedIn](https://www.linkedin.com/in/joelsantosjunior/)
-[Instagram](https://www.instagram.com/joels.junior/)
-[Email](joelsantosjunior@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/joelsantosjunior/) \n
+[Instagram](https://www.instagram.com/joels.junior/) \n
+__Email:__ joelsantosjunior@outlook.com
