@@ -1,7 +1,7 @@
 ### Hello everyone, I'm Joel 👋
 a Brazilian Software Developer.
 
-👨‍🎓I'm about to finish my bachelor degree at [UNIFACISA](https://www.unifacisa.edu.br/home)\
+👨‍🎓 I'm about to finish my bachelor degree at [UNIFACISA](https://www.unifacisa.edu.br/home)\
 💻 Currently working with Javascript technologies such as NodeJS, Angular, SailsJS\
 📚 On the way to learn mobile development using [Flutter](https://flutter.dev)\
 📚 On the way to learn DevOps with Google Cloud and AWS\
