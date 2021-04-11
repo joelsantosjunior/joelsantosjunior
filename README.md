@@ -7,7 +7,6 @@ a Brazilian Software Developer.
 🌎 I'm currently living in Brazil\
 👨‍💻 Currently working for [Upplify](http://upplify.com/)\
 📚 On the way to learn mobile development using [Flutter](https://flutter.dev)\
-📚 On the way to learn DevOps with Google Cloud and AWS
 
 ### Here's where you can find me! ✉
 [LinkedIn](https://www.linkedin.com/in/joelsantosjunior/)\
