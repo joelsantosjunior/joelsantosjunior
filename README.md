@@ -10,4 +10,4 @@ a Brazilian Software Developer.
 
 ### Here's where you can find me! ✉
 [LinkedIn](https://www.linkedin.com/in/joelsantosjunior/)\
-[Instagram](https://www.instagram.com/joels.junior/)\
+[Instagram](https://www.instagram.com/joels.junior/)
