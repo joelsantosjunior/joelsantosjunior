@@ -1,11 +1,10 @@
 ### Hello everyone, I'm Joel 👋
 a Brazilian Software Developer.
 
-👨‍🎓  I'm about to finish my bachelor's degree at [UNIFACISA](https://www.unifacisa.edu.br/home)\
-💻 Currently working with Javascript technologies such as NodeJS, Angular, SailsJS\
-🛠 Some other tools I'm used to use in my projects: MongoDB, MySQL, VSCode, Android Studio, Docker, Firebase.\
+👨‍🎓 I'm about to finish my bachelor's degree at [UNIFACISA](https://www.unifacisa.edu.br/home)\
+💻 Currently working with Javascript technologies such as NodeJS, Angular\
 🌎 I'm currently living in Brazil\
-👨‍💻 Currently working for [Upplify](http://upplify.com/)\
+👨‍💻 Currently working for [CWI Software](https://cwi.com.br/)\
 📚 On the way to learn mobile development using [Flutter](https://flutter.dev)
 
 ### Languages and Tools:
