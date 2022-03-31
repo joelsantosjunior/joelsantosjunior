@@ -1,11 +1,11 @@
 ### Hello everyone, I'm Joel 👋
 a Brazilian Software Developer.
 
-👨‍🎓 I'm about to finish my bachelor's degree at [UNIFACISA](https://www.unifacisa.edu.br/home)\
-💻 Currently working with Javascript technologies such as NodeJS, Angular\
+👨‍🎓 BSc \
+💻 Currently working with Javascript technologies such as NestJS, Angular\
 🌎 I'm currently living in Brazil\
-👨‍💻 Currently working for [CWI Software](https://cwi.com.br/)\
-📚 On the way to learn mobile development using [Flutter](https://flutter.dev)
+👨‍💻 Working for [Youper](https://youper.ai/)\
+💻 Freelancer for Mobile Apps Development using [Flutter](https://flutter.dev)
 
 
 
