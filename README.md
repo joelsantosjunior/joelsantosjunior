@@ -4,8 +4,8 @@ a Brazilian Software Developer.
 👨‍🎓 BSc \
 💻 Currently working with Javascript technologies such as NestJS, Angular\
 🌎 I'm currently living in Brazil\
-👨‍💻 Working for [Youper](https://youper.ai/)\
-💻 Freelancer for Mobile Apps Development using [Flutter](https://flutter.dev)
+👨‍💻 Working at [Youper](https://youper.ai/)\
+💻 Freelancer for Mobile/Desktop Apps Development using [Flutter](https://flutter.dev) and [Agnular](https://angular.io)
 
 
 
