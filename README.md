@@ -1,5 +1,4 @@
 ### Hello everyone, I'm Joel 👋
-a Brazilian Software Developer.
 
 BSc Degree in Information Systems \
 Currently working with NodeJs and Angular\
