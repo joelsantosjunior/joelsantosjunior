@@ -3,7 +3,7 @@
 BSc Degree in Information Systems \
 Currently working with NodeJs and Angular\
 Based in Brazil\
-Current Job [Act Digital](https://actdigital.com/pt)\
+Current Job FullStack Developer at Moderna via [Act Digital](https://actdigital.com/pt)\
 Open to freelance Jobs using Flutter, Angular, or NodeJS.
 
 ### Languages and Tools:
