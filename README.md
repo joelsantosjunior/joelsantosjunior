@@ -3,11 +3,10 @@
 BSc Degree in Information Systems \
 Currently working with NodeJs and Angular\
 Based in Brazil\
-Current Job FullStack Developer at Moderna via [Act Digital](https://actdigital.com/pt)\
-Open to freelance Jobs using Flutter, Angular, or NodeJS.
+Current Job FullStack Developer at SurgoHealth via [Act Digital](https://actdigital.com/pt)\
 
 ### Languages and Tools:
-NodeJs | Typescript | Javascript | Angular | MySQL | MongoDB | Flutter 
+NodeJs | Typescript | Javascript | React | Angular | Postgres | MongoDB | Flutter 
 
 
 ### Here's where you can find me!
