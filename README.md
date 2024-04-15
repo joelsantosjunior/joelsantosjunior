@@ -1,7 +1,7 @@
 ### Hello everyone, I'm Joel 👋
 
 BSc Degree in Information Systems \
-Currently working with NodeJs and Angular\
+Currently working with Typescript\
 Based in Brazil\
 Current Job FullStack Developer at SurgoHealth via [Act Digital](https://actdigital.com/pt)\
 
