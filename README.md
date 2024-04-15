@@ -3,7 +3,7 @@
 BSc Degree in Information Systems \
 Currently working with Typescript\
 Based in Brazil\
-Current Job FullStack Developer at SurgoHealth via [Act Digital](https://actdigital.com/pt)\
+Current Job FullStack Developer at [SurgoHealth](https://www.surgohealth.com/) via [Act Digital](https://actdigital.com/pt)\
 
 ### Languages and Tools:
 NodeJs | Typescript | Javascript | React | Angular | Postgres | MongoDB | Flutter 
