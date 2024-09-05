@@ -3,7 +3,7 @@
 BSc Degree in Information Systems \
 Currently working with Typescript\
 Based in Brazil\
-Current Job FullStack Developer at [SurgoHealth](https://www.surgohealth.com/) via [Act Digital](https://actdigital.com/pt)
+Current Job Frontend Engineer at [PetScreening](https://www.petscreening.com/)
 
 ### Languages and Tools:
 NodeJs | Typescript | Javascript | React | Angular | Postgres | MongoDB | Flutter 
