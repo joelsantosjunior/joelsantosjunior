@@ -12,4 +12,3 @@ NodeJs | Typescript | Javascript | React | Angular | Postgres | MongoDB | Flutte
 
 ### Here's where you can find me!
 [LinkedIn](https://www.linkedin.com/in/joelsantosjunior/)\
-[Instagram](https://www.instagram.com/joels.junior/)
