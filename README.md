@@ -1,5 +1,6 @@
 ### Hello everyone, I'm Joel 👋
 
+MSc, Software Engineering (WIP) \
 BSc Degree in Information Systems \
 Currently working with Typescript\
 Based in Brazil\
