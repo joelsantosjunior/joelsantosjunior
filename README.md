@@ -3,7 +3,7 @@
 MSc, Software Engineering (WIP) \
 BSc Degree in Information Systems \
 Currently working with Typescript\
-Based in Brazil\
+Based in Brazil
 
 Senior Software Engineer @ [PetScreening](https://www.petscreening.com/)
 
